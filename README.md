@@ -1,3 +1,3 @@
-# edureka
+# pharmaweb
 my first repository
 learnig
